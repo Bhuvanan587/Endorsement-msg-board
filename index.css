@@ -82,6 +82,7 @@ ul{
 }
 
 li {
+    overflow: scroll;
     padding: 15px 15px 5px 15px;
     margin-bottom: 13px;
     width: 317px;
