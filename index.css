@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     align-items: center;
     overflow-y: auto;
+    overflow-x: hidden;
     background: #1B1924;
     width: 390px;
     height: 844px;
