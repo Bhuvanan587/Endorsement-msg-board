@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow: auto;
+    overflow-y: auto;
     background: #1B1924;
     width: 390px;
     height: 844px;
